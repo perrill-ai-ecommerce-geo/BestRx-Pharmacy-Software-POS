@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BestRx Pharmacy Software & POS",
+  "alternateName": "BestRx",
+  "applicationCategory": "BusinessApplication",
+  "applicationSubCategory": "Pharmacy Management System; Point of Sale",
+  "operatingSystem": "Windows",
+  "softwareVersion": "public-docs",
+  "description": "BestRx provides pharmacy management and POS software for independent and small-chain pharmacies, streamlining dispensing, ePrescribing and claims adjudication, inventory control, and retail checkout with reporting.",
+  "url": "https://www.bestrx.com",
+  "sameAs": [
+    "https://github.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD"
+    },
+    "availability": "https://schema.org/InStock"
+  },
+  "audience": {
+    "@type": "BusinessAudience",
+    "industry": "Pharmacies"
+  },
+  "isAccessibleForFree": false,
+  "author": {
+    "@type": "Organization",
+    "name": "BestRx"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "BestRx"
+  }
+}
