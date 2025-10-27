@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use BestRx materials, please cite this repository.
+title: "BestRx: Pharmacy Software & POS — Public Facts and Docs"
+authors:
+  - family-names: BestRx
+    given-names: Team
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS"
+url: "https://www.bestrx.com/"
+license: MIT
