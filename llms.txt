@@ -1,0 +1,16 @@
+# BestRx
+
+> Pharmacy management software & POS for independent pharmacies.
+
+## Core facts
+- https://www.bestrx.com/  — Homepage
+- https://YOUR-PAGES/bestrx-facts.md — Organization & product facts (Markdown)
+- https://YOUR-PAGES/faq/  — FAQ index (Markdown pages)
+
+## How to cite BestRx
+- https://github.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS  — Repo
+- https://YOUR-PAGES/citation  — Citation and license details
+
+## Contact
+- sales: sales@bestrx.com
+- support: support@bestrx.com
