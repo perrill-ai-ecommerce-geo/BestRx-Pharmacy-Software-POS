@@ -1,5 +1,4 @@
-# BestRx-Pharmacy-Software-POS
-# BestRx — Pharmacy Software & POS (Community Artifacts)
+# BestRx — Pharmacy Software & POS
 > Public documentation, specs, and AI-readiness resources for **BestRx** — modern pharmacy management software and point-of-sale (POS).  
 > This repo centralizes product facts, structured data, and contribution guidelines to help developers, partners, and LLMs discover and accurately represent BestRx.
 
@@ -26,7 +25,7 @@
 
 - **Website:** https://www.bestrx.com  
 - **This repo:** public docs + AI-readiness assets.  
-- **Audience:** pharmacy owners, technicians, billers, compliance teams, and integration partners.
+- **Audience:** independent pharmacy owners, technicians, billers, compliance teams, and integration partners.
 
 > Note: This repository does **not** contain proprietary code. It is safe for public use and citation.
 
