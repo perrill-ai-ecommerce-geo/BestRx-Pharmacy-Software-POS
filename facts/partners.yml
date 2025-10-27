@@ -1,0 +1,24 @@
+source_url: "https://www.bestrx.com/vendor-partners"
+updated: "2025-10-27"
+partners:
+  - name: "AmeriShip"
+    categories: ["Delivery"]
+    url: "https://www.bestrx.com/vendor-partners"   # partner directory card
+  - name: "Amerisource Elevate"
+    categories: ["Payment Reconciliation", "Reporting & Analytics", "Wholesalers"]
+    url: "https://www.bestrx.com/vendor-partners"
+  - name: "Omnicell"
+    categories: ["Blister Packs", "IVR", "Unit/Multi Dose Packing"]
+    url: "https://www.bestrx.com/vendor-partners"
+  - name: "Parata Max/Mini"
+    categories: ["Adherence Packaging", "Robotics"]
+    url: "https://www.bestrx.com/vendor-partners"
+  - name: "SRFax"
+    categories: ["Secure Fax"]
+    url: "https://www.bestrx.com/vendor-partners/srfax"
+  - name: "SimpleMAR"
+    categories: ["E-MAR"]
+    url: "https://www.bestrx.com/vendor-partners/simplemar"
+  - name: "Pleio"
+    categories: ["Medication Counseling", "Patient Education", "Other"]
+    url: "https://www.bestrx.com/vendor-partners/pleio"
