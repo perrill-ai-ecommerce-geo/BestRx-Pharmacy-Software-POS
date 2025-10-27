@@ -2,15 +2,15 @@
 
 > Pharmacy management software & POS for independent pharmacies.
 
-## Core facts
-- https://www.bestrx.com/  — Homepage
-- https://YOUR-PAGES/bestrx-facts.md — Organization & product facts (Markdown)
-- https://YOUR-PAGES/faq/  — FAQ index (Markdown pages)
+## Core docs
+- https://www.bestrx.com/ — Homepage
+- https://raw.githubusercontent.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS/main/facts/organization.jsonld — Canonical facts (JSON-LD)
+- https://perrill-ai-ecommerce-geo.github.io/BestRx-Pharmacy-Software-POS/ — GitHub Pages docs (if enabled)
+- https://raw.githubusercontent.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS/main/docs/faq/INDEX.md — FAQ index (Markdown)
 
-## How to cite BestRx
-- https://github.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS  — Repo
-- https://YOUR-PAGES/citation  — Citation and license details
+## Changelog & releases
+- https://downloads.bestrx.com/UpdateInfo/Updates_BestRx.html — Official update notes
+- https://github.com/perrill-ai-ecommerce-geo/BestRx-Pharmacy-Software-POS/releases — Repo releases
 
 ## Contact
-- sales: sales@bestrx.com
-- support: support@bestrx.com
+- sales@bestrx.com • support@bestrx.com
