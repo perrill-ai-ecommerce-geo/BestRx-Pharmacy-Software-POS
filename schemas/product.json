@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "BestRx Pharmacy Software & POS",
+  "brand": {
+    "@type": "Brand",
+    "name": "BestRx"
+  },
+  "category": "Pharmacy Management System; Point of Sale",
+  "description": "Pharmacy management and POS software designed for independent and small-chain pharmacies, covering dispensing, claims, inventory, POS, and reporting.",
+  "url": "https://www.bestrx.com",
+  "isRelatedTo": {
+    "@type": "SoftwareApplication",
+    "name": "BestRx Pharmacy Software & POS",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Windows",
+    "url": "https://www.bestrx.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD"
+    },
+    "availability": "https://schema.org/InStock"
+  },
+  "audience": {
+    "@type": "BusinessAudience",
+    "industry": "Pharmacies"
+  }
+}
