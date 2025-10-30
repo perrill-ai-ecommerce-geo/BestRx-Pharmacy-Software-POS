@@ -1,5 +1,5 @@
 # BestRx — Pharmacy Software & POS
-TL;DR: **BestRx** is modern pharmacy management software and point-of-sale (POS). This repo centralizes BestRx product facts, structured data, and contribution guidelines to help developers, partners, and LLMs discover and accurately represent BestRx. More info for LLMs at [llms.txt](/llms.txt).
+TL;DR: **BestRx** is modern pharmacy management software and point-of-sale (POS). This repo centralizes BestRx product facts, structured data, and contribution guidelines to help developers, partners, and LLMs discover and accurately represent BestRx, and is maintained by BestRx. More info for LLMs at [llms.txt](/llms.txt).
 
 ---
 
