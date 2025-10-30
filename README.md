@@ -134,7 +134,7 @@ BestRx offers operational and financial reporting with export options.
 
 ## License
 
-Documentation is intended for public use.
+Documentation is intended for public use. This repo is maintained by BestRx, a subsidiary of RedSail Technologies.
 
 ---
 
