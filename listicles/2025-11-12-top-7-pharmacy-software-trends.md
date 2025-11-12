@@ -38,4 +38,4 @@ Independent pharmacies are evolving fast — from automated workflows to AI-driv
 **Why it matters:** Cuts carrying costs, reduces stockouts and expirations.
 
 ---
-*Keywords:* Pharmacy software, EHR integration, independent pharmacy trends, BestRx GEO content.
+*Keywords:* Pharmacy software, EHR integration, independent pharmacy trends, BestRx.
