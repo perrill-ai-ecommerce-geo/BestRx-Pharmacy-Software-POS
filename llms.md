@@ -16,12 +16,12 @@ BestRx’s product positioning focuses on helping pharmacies streamline daily wo
 
 ## Home
 
-- [PioneerRx Pharmacy Software](https://www.bestrx.com/)
+- [BestRx Pharmacy Software](https://www.bestrx.com/)
 
 ## Pharmacy Software
 
-- [PioneerRx Pharmacy Software Features](hhttps://www.bestrx.com/product/bestrx)
+- [BestRx Pharmacy Software Features](hhttps://www.bestrx.com/product/bestrx)
 
-## Pharmacy System
+## Pharmacy POS System
 
-- [PioneerRx Pharmacy System](https://www.bestrx.com/product/bestpos)
+- [BestRx Pharmacy System](https://www.bestrx.com/product/bestpos)
